@@ -1,5 +1,6 @@
 {
   "name": "groceryapp",
+  "homepage": "https://github.com/Mashawn-Rolfe/groceryapp",
   "private": true,
   "version": "0.0.0",
   "type": "module",
